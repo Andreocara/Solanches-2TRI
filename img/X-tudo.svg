@@ -1,0 +1,12 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pão de cima -->
+  <rect x="10" y="10" width="80" height="20" fill="#d3a867" />
+
+  <!-- Ingredientes do sanduíche -->
+  <rect x="20" y="30" width="60" height="10" fill="#ed7354" />
+  <rect x="20" y="45" width="60" height="10" fill="#3d5a3b" />
+  <rect x="20" y="60" width="60" height="10" fill="#f8e763" />
+
+  <!-- Pão de baixo -->
+  <rect x="10" y="75" width="80" height="20" fill="#d3a867" />
+</svg>
